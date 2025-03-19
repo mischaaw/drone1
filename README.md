@@ -42,7 +42,7 @@ python drone_control.py
 You’ll see your webcam feed pop up with the live detection of your face and hands. Get ready for some drone action! 🛸
 
 5. Exit the Program 🏁
-To stop the program, simply press the ‘q’ key. Your drone will land safely! ✨
+To stop the program, simply press the 'control' + 'c' key. Your drone will land safely! ✨
 
 🤖 How It Works 💡
 
